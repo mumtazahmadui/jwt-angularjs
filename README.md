@@ -1,4 +1,5 @@
 => npm install express faker
+
 => nodemon server.js
 
 1st Step:
