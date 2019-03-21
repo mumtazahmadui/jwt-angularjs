@@ -2,6 +2,7 @@
 => nodemon server.js
 
 1st Step:
+```
 const express = require('express');
 const faker = require('faker');
 
@@ -15,7 +16,7 @@ app.get('/random-user', function(req, res){
 app.listen(3000, function(){
     console.log('App running on localhost:3000');
 })
-
+```
 => 1st Step: http://localhost:3000/random-user
 
 => create folder i.e. public
