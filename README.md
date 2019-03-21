@@ -21,7 +21,9 @@ app.listen(3000, function(){
 => 1st Step: http://localhost:3000/random-user
 
 => create folder i.e. public
+
 => bower install angular
+```
 (function () {
     'user strict';
     var app = angular.module('app',[]);
@@ -52,7 +54,7 @@ app.listen(3000, function(){
  
     })
 })();
-
+```
 => http-server
 => output -> http://localhost:8080/
 => error for cops;
