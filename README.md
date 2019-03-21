@@ -56,15 +56,19 @@ app.listen(3000, function(){
 })();
 ```
 => http-server
+
 => output -> http://localhost:8080/
+
 => error for cops;
+
 => npm install cors
+
 const app = express(); below line;
 
 app.use(cors());
 
 => nglinput
-elow line;
+below line;
 
 => npm install body-parser
 
