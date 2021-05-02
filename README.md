@@ -1,3 +1,6 @@
+```
+https://jwt.io/
+```
 => npm install express faker
 
 => nodemon server.js
@@ -71,4 +74,6 @@ app.use(cors());
 below line;
 
 => npm install body-parser
+
+=> npm install jsonwebtoken
 
